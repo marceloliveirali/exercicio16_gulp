@@ -1,0 +1,18 @@
+Módulo 16: Automação de tarefas com Gulp
+
+1° Realizou a instalação do Gulp de forma global e com dependência de projeto;
+2° Configurou um projeto Gulp;
+3° Criou arquivos gitignore;
+4° Compreendeu o conceito de automação de tarefas;
+5° Criou tarfeas no Gulp utilizando funções;
+6° Entendeu como essas tarefas podem ser executadas automaticamente;
+7° Distinguiu entre tarefas públicas e privadas no Gulp;
+8° Compreendeu o conceito e a importância da execucação de tarefas em série no Gulp;
+9° Cofigurou e executou tarefas em série;
+10° Executou tarefas em paralelo no Gulp;
+11° Compreendeu quando essa abordagem é benéfica em relação as tarefas em série;12° Compreendeu o propósito da automação de tarefas com o Gulp no trabalho de sesenvolvimento Front-End;
+13° Instalou e configurou os plugins necessários no Gulp para lidar com compilação de arquyivos SASS, compressão de imagens e outras tarefas comuns;
+14° Dominou a criação de tarefas personalizadas no Gulp para automatizar processos de desenvolvimento;
+15° Compreendeu a minificação de JavaScript usando o Gulp;
+16° Instalou plugins necessários como o uglify;
+17° Trnou arquivos de JavaScript ilegíveis com o obfuscate.
