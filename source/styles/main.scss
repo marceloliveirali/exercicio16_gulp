@@ -1,0 +1,11 @@
+@use 'configuration';
+@use 'var';
+
+body {
+    background-color: var.$corPrimary;
+    
+    h1 {
+        margin: 16px auto;
+        text-align: center;
+    }
+}
