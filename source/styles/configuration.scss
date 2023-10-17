@@ -1,0 +1,9 @@
+@use 'var';
+
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var.$corWord;
+}
